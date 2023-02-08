@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-ALX SE Devops
+‘This repository contains solutions to shell tasks’
